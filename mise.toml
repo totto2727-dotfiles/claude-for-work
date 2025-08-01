@@ -1,0 +1,3 @@
+[tasks.translate]
+description = "Translate CLAUDE.ja.md to English using Claude Code"
+run = 'claude code "Translate CLAUDE.ja.md to English and save as CLAUDE.md. Keep the same structure and formatting."'

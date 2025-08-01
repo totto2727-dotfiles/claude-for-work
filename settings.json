@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "feedbackSurveyState": {
+    "lastShownTime": 1754065958571
+  },
+  "permissions": {
+    "allow": [],
+    "deny": [
+      "Bash(sudo:*)",
+      "Bash(rm:*)",
+      "Bash(rm -rf:*)",
+      "Bash(git push:*)",
+      "Bash(git reset:*)",
+      "Read(id_rsa)",
+      "Read(id_ed25519)",
+      "Read(.env*.local)",
+      "Read(.mise*.local.toml)",
+      "Write(.env*)"
+    ]
+  }
+}
