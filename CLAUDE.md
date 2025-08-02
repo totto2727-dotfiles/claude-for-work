@@ -13,3 +13,7 @@
 - Follow existing code patterns
 - Manage sensitive information properly
 - Strictly follow Conventional Commits
+
+## Documentation Rules
+
+- **Language**: Always output documentation in Japanese
