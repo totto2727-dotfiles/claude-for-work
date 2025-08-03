@@ -18,3 +18,9 @@
 - Follow existing code patterns
 - Manage sensitive information properly
 - Strictly follow Conventional Commits
+
+### Code Analysis and Search
+
+- **serena MCP Priority**: When serena MCP is available, use serena MCP tools for code search and analysis
+- **Claude Code Output**: Always use Claude Code's built-in functionality for code output and file modifications
+  - serena MCP diffs are difficult to read; Claude Code provides clearer change visualization
