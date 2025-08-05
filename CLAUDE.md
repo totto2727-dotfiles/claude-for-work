@@ -19,6 +19,7 @@
 - Strictly follow Conventional Commits
 - Keep output to the absolute minimum required
   - No excessive decoration or unnecessary specifications
+- Comments are generally unnecessary
 
 ### Code Analysis and Search
 
