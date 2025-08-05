@@ -3,8 +3,8 @@
 ## Basic Rules
 
 - **Parallel Execution**: Execute independent processes concurrently
-- **Information Gathering**: Use Context7 MCP for library information
-- **Planning**: Always create and confirm execution plans unless instructed otherwise
+- **search_docs slash command**: Use search_docs slash command
+- **Planning**: Create execution plans as a general principle
 
 ## Language Rules
 
@@ -14,13 +14,13 @@
 
 ## Development Rules
 
-- Avoid hardcoding values
 - Follow existing code patterns
 - Manage sensitive information properly
 - Strictly follow Conventional Commits
+- Keep output to the absolute minimum required
+  - No excessive decoration or unnecessary specifications
 
 ### Code Analysis and Search
 
 - **serena MCP Priority**: When serena MCP is available, use serena MCP tools for code search and analysis
-- **Claude Code Output**: Always use Claude Code's built-in functionality for code output and file modifications
-  - serena MCP diffs are difficult to read; Claude Code provides clearer change visualization
+
