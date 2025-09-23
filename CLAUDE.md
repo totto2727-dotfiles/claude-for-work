@@ -3,6 +3,7 @@
 ## Basic Rules
 
 - **Parallel Execution**: Execute independent processes concurrently
+- **Agent Priority**: Prioritize using Agents whenever possible for all tasks
 - **search_docs slash command**: Use search_docs slash command
 - **Planning**: Create execution plans as a general principle
 
@@ -19,7 +20,7 @@
 - Strictly follow Conventional Commits
 - Keep output to the absolute minimum required
   - No excessive decoration or unnecessary specifications
-- Comments are generally unnecessary
+- **No Comments**: Never add comments unless explicitly instructed
 
 ### Code Analysis and Search
 
