@@ -4,7 +4,6 @@
 
 - **Parallel Execution**: Execute independent processes concurrently
 - **Agent Priority**: Prioritize using Agents whenever possible for all tasks
-- **search_docs slash command**: Use search_docs slash command
 - **Planning**: Create execution plans as a general principle
 
 ## Language Rules
@@ -25,4 +24,3 @@
 ### Code Analysis and Search
 
 - **serena MCP Priority**: When serena MCP is available, use serena MCP tools for code search and analysis
-
