@@ -4,3 +4,5 @@ statsig/
 todos/
 .credentials.json
 *.local.*
+debug
+ide
