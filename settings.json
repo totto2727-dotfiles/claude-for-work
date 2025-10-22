@@ -37,8 +37,8 @@
       "Bash(rm:*)",
       "Bash(rm -r:*)",
       "Bash(rm -rf:*)",
-      "Bash(git push:*)",
       "Bash(git reset:*)",
+      "Bash(git push:*)",
       "Read(id_rsa)",
       "Read(id_ed25519)",
       "Read(*.local*)"
