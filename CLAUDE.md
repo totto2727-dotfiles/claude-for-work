@@ -20,6 +20,7 @@
 - Keep output to the absolute minimum required
   - No excessive decoration or unnecessary specifications
 - **No Comments**: Never add comments unless explicitly instructed
+- **Typo Detection**: Always point out typos and errors found in existing code and documentation
 
 ### Code Analysis and Search
 
