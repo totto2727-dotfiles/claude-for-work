@@ -37,7 +37,6 @@
       "Bash(sudo:*)",
       "Bash(rm:*)",
       "Bash(unlink:*)",
-      "Bash(git rm:*)",
       "Bash(git reset:*)",
       "Bash(git push:*)",
       "Read(id_rsa)",
